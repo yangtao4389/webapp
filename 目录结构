@@ -1,0 +1,14 @@
+利用廖雪峰python教程的最后实战部分,做一个webapp的网站出来
+
+项目结构为:
+
+根目录:awesome-python3-webapp
+        |-备份目录backup
+        |-配置文件conf
+        |-打包目录dist
+        |-web目录www
+            |-静态文件static
+            |-存放模板文件templates
+        |-存放iso app工程ios
+        |-代码LICENSE
+
